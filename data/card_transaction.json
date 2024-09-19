@@ -1,0 +1,282 @@
+[
+  {
+    "transaction_date": "2024-09-13 17:19:55.675783",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 1.0,
+    "balance": 305.0
+  },
+  {
+    "transaction_date": "2024-09-13 17:51:23.621939",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 1.0,
+    "balance": 3.0
+  },
+  {
+    "transaction_date": "2024-09-14 14:37:17.964425",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 1.0,
+    "balance": 5.0
+  },
+  {
+    "transaction_date": "2024-09-15 00:50:20.168627",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 105.0
+  },
+  {
+    "transaction_date": "2024-09-15 00:50:42.367057",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 205.0
+  },
+  {
+    "transaction_date": "2024-09-15 00:50:51.438632",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 305.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:06:55.150857",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 405.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:08:18.519019",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 405.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:08:34.454277",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 405.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:09:05.953098",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 405.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:09:22.917741",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 405.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:14:29.411843",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 405.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:15:13.300309",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 405.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:15:36.254813",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 405.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:15:56.489503",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 405.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:17:30.469717",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 405.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:18:05.394480",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 101.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:18:34.350134",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 101.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:18:37.367805",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 101.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:18:57.193977",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 101.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:20:31.116353",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 101.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:20:31.526617",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 101.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:20:51.847868",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 101.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:21:12.411857",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 101.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:21:47.853253",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 101.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:21:57.233254",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 201.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:22:28.081340",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 301.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:22:30.301172",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 401.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:25:24.257202",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 501.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:25:59.335811",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 601.0
+  },
+  {
+    "transaction_date": "2024-09-15 01:26:26.095385",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "debit",
+    "amount": 100.0,
+    "balance": 501.0
+  },
+  {
+    "transaction_date": "2024-09-17 12:56:31.360491",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 1.0,
+    "balance": 502.0
+  },
+  {
+    "transaction_date": "2024-09-17 12:56:44.715156",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "credit",
+    "amount": 100.0,
+    "balance": 602.0
+  },
+  {
+    "transaction_date": "2024-09-17 12:56:52.381992",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "debit",
+    "amount": 100.0,
+    "balance": 502.0
+  },
+  {
+    "transaction_date": "2024-09-17 12:56:57.715953",
+    "card_number": 123456789012,
+    "description": "Check Deposit",
+    "transaction_type": "debit",
+    "amount": 100.0,
+    "balance": 402.0
+  }
+]
